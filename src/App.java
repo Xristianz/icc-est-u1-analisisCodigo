@@ -5,6 +5,7 @@ public class App {
         int[] arregloBurbuja = { 34, 2, 10, 6, 7, 5, 1, 15 };
         int[] arregloSeleccion = { 34, 2, 10, 6, 7, 5, 1, 15 };
         int[] arregloInsercion = { 34, 2, 10, 6, 7, 5, 1, 15 };
+        Benchmarkin bn = new Benchmarkin();
 
         // Insctucciones:
         // Todas las llamadas a los metodos deberan estar descomentadas y se debera
