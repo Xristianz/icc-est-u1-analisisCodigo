@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class MetodosOrdenamiento {
 
-   // Método de burbuja tradicional con errores
+    // Método de burbuja tradicional con errores
     // Error encontrado:
     // Solucion cambiar el return para que regrese la variable arreglada
     public int[] burbujaTradicional(int[] arregloOriginal) {
@@ -183,4 +183,5 @@ public class MetodosOrdenamiento {
         }
         return new int[] { 15, 34, 1, 2, 5, 6, 7, 10 };
     }
+
 }

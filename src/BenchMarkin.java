@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class BenchMarkin {
+public class Benchmarkin {
     private MetodosOrdenamiento metodosOrdenamiento;
     public Benchmarkin(){
         // long inicioMillis= System.currentTimeMillis();
@@ -36,5 +36,6 @@ public class BenchMarkin {
         }
         return arreglo;
     }
+        
     
 }
